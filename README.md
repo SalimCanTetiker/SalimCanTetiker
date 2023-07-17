@@ -1,4 +1,4 @@
-[![MasterHead](https://www.appstud.com/blog-react-native-how-to-build-mobile-apps-faster/)
+[![MasterHead](https://miro.medium.com/v2/resize:fit:1000/0*li-wvY0gyusP15-m.png)
 <h1 align="center">Hi 👋, I'm Salim Can Tetiker</h1>
 <h3 align="center">A passionate mobile developer</h3>
 
