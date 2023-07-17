@@ -1,4 +1,4 @@
-[![MasterHead](https://www.google.com/search?q=react+native&sxsrf=AB5stBjLRaBppeUIuv5dsoow_HPLNT1eUw:1689598611699&source=lnms&tbm=isch&sa=X&ved=2ahUKEwjJvMCo5ZWAAxUzSvEDHZW3DkIQ_AUoAXoECAIQAw&biw=1536&bih=714&dpr=1.25#imgrc=fAbMhTDuQrTD2M)
+[![MasterHead](https://www.appstud.com/blog-react-native-how-to-build-mobile-apps-faster/)
 <h1 align="center">Hi 👋, I'm Salim Can Tetiker</h1>
 <h3 align="center">A passionate mobile developer</h3>
 
